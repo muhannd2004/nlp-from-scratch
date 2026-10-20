@@ -1,2 +1,4 @@
 datasets/emotion_dataset
 .idea
+.venv
+dataset_cache
